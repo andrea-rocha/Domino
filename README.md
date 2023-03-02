@@ -19,7 +19,7 @@ Ubicarse en el archivo appsettings.json
 - encontrará la configuración de la key de encriptación para el JWT, la dirección del emisor y la Audiencia en este caso con el respectivo puerto 
 ```
 Ejecute la solucion del programa 
-![swagger](./imagenes/swagger.png?raw=true)
+![swagger](./Imagenes/swagger.PNG?raw=true)
 se exponen los siguientes metodos
 
 - /login
@@ -30,7 +30,7 @@ una vez envie en el post las credenciales de nombreUsuario y contraseña en el R
 -copie el contenido dentro de las ""
 -dirigase al boton de Authorize en la parte superior y pegue el token en el campo Value:
 
-![swagger](./imagenes/inicio.png?raw=true)
+![swagger](./Imagenes/inicio.PNG?raw=true)
 
 esto le permitira dependiendo de las credenciales seleccionadas acceder a los servicios 
 los servicios de create, update y delete estan disponibles para el usuario administrador, los demas usuarios estan disponibles para usuarios standard 
